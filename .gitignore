@@ -1,0 +1,7 @@
+*.env
+.env.
+**/public/**
+node_modules
+.vs
+build
+user_data
